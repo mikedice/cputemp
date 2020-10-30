@@ -4,7 +4,7 @@
  * is simply exposed as a text file.
  *
  * Author: Mike Dice
- * CreatedOn: October, 2020
+ * Created On: October 25, 2020
 */
 
 #include <iostream>
